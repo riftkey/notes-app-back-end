@@ -121,4 +121,4 @@ const deleteNoteByIdHandler= (request,h) =>{
 };
 
 
-module.exports = { addNoteHandler, getAllNotesHandler,getNoteByIdHandle, editNoteByIdHandler,deleteNoteByIdHandler };
+module.exports = { addNoteHandler, getAllNotesHandler,getNoteByIdHandle, editNoteByIdHandler, deleteNoteByIdHandler };
